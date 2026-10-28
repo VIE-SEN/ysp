@@ -1,0 +1,11 @@
+{
+  "name": "yangshipin-cap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "央视频直播 Capacitor 原型（仅支持央视频）",
+  "dependencies": {
+    "@capacitor/android": "^4.8.1",
+    "@capacitor/cli": "^4.8.1",
+    "@capacitor/core": "^4.8.1"
+  }
+}
